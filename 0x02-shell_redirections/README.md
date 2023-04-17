@@ -1,1 +1,1 @@
-redirections
+Hello world
