@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -i [[a-z]] | A
+sort A [[a-z]] | -i
