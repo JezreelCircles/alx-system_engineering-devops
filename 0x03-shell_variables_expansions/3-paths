@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH="wc -d"
+grep -d $PATH | wc
